@@ -1,0 +1,1 @@
+import{j as o}from"./index-DtNT1yH5.js";import{E as t}from"./error-page-component-CtyYboK5.js";import"./Close-C_si7n7L.js";import"./IconButton-BvcR6L3f.js";const s=r=>o.jsx(t,{error:r.error});export{s as errorComponent};
